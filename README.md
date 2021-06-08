@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sofware Development
 - 🌱 I’m currently learning K8s
 - 💞️ I’m looking to collaborate on anything that will make me code
-- 📫 How to reach me https://www.linkedin.com/in/rahilsh/
+- 📫 Reach me on https://github.com/rahilsh/
 
 <!---
 rahil-sh/rahil-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
